@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("你好，华为");
         System.out.println("你好，java");
         System.out.println("master test");
+        System.out.println("hot-fix commit2");
     }
 }
